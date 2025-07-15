@@ -20,16 +20,12 @@ registration-form/
 
 ## 🌐 Live Preview
 
-Coming soon... (You can deploy using GitHub Pages)
+[Registration Form](https://kuldeeps01199.github.io/Registration-form/)
 
 ## 🛠️ Tech Used
 
 - HTML5
 - CSS3
-
-## 📸 Screenshot
-
-*Include a screenshot of your form here if available*
 
 ## 📬 Contact
 
